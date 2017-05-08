@@ -1,5 +1,5 @@
 function saludar(){
-	var saludar = alert("Hola mundo");
+	var saludar = alert("Adiós mundo");
 	return saludar;
 }
 saludar();
